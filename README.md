@@ -1,10 +1,10 @@
-# Mundo Verde
+# Produtos Naturais
 
 Este é um site de loja virtual dedicado a produtos naturais e suplementos.
 
 ## Descrição
 
-O site oferece uma variedade de produtos saudáveis, incluindo cereais, suplementos e temperos. O site possui um formulário de contato para que os clientes possam se comunicar facilmente com a equipe de atendimento.
+O site oferece uma variedade de produtos saudáveis, incluindo cereais, suplementos e temperos. Esse projeto possui um formulário de contato para que os clientes possam se comunicar facilmente com a equipe de atendimento.
 
 ## Funcionalidades
 
